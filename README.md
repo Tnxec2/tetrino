@@ -1,5 +1,5 @@
 # Tetrino for Gamebuino
-(fork from https://raw.githubusercontent.com/j0ff/tetrino)
+(fork from https://github.com/j0ff/tetrino)
 
 ![](tetrino.gif)
 
